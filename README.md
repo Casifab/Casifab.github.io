@@ -1,6 +1,6 @@
 # PERSONAL SITE
 This is my personal site (and first) personal site hosted on Github.
-I build it using the 'create-react-app' feature with the purpose of training with
+I build it using the `create-react-app` feature with the purpose of training with
 the [React](https://reactjs.org/) library.
 
 ### Every description of person (or animal) represented in this site is subjective.
